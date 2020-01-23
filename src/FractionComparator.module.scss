@@ -1,0 +1,21 @@
+
+.mainContainer {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.column { 
+  width: 50%;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  align-items: center;
+}
+
+.decimal {  
+  font-size: 30px;
+  justify-content: center;
+}
+

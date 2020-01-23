@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render FractionInput 1`] = `
+<div
+  className="fraction"
+>
+  <div
+    className="fractionRow"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+       - 
+    </button>
+    <div
+      className="number underline numerator"
+    >
+       
+      1
+    </div>
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+       + 
+    </button>
+  </div>
+  <div
+    className="fractionRow"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      -
+    </button>
+    <div
+      className="number denominator"
+    >
+       
+      3
+    </div>
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      +
+    </button>
+  </div>
+</div>
+`;

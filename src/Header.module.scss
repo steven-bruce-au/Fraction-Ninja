@@ -1,0 +1,19 @@
+.header {
+  background-color: #282c34;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
+
+.title {
+  text-align: left;
+  font-size: calc(20px + 2vmin);
+  padding:5px;
+}
+.description {
+  text-align: left;
+  font-size: calc(10px + 1vmin);
+  padding: 15px;
+  max-width: 60vw;
+
+}

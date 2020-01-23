@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render FractionComparator 1`] = `
+<div
+  className="mainContainer"
+>
+  <div
+    className="column"
+  >
+    <div
+      className="fraction"
+    >
+      <div
+        className="fractionRow"
+      >
+        <button
+          className="button"
+          onClick={[Function]}
+        >
+           - 
+        </button>
+        <div
+          className="number underline numerator"
+        >
+           
+          1
+        </div>
+        <button
+          className="button"
+          onClick={[Function]}
+        >
+           + 
+        </button>
+      </div>
+      <div
+        className="fractionRow"
+      >
+        <button
+          className="button"
+          onClick={[Function]}
+        >
+          -
+        </button>
+        <div
+          className="number denominator"
+        >
+           
+          1
+        </div>
+        <button
+          className="button"
+          onClick={[Function]}
+        >
+          +
+        </button>
+      </div>
+    </div>
+    <div
+      className="chartContainer"
+      style={
+        Object {
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        className="chart"
+      >
+        <div
+          className="recharts-responsive-container"
+          style={
+            Object {
+              "height": "100%",
+              "maxHeight": undefined,
+              "minHeight": undefined,
+              "minWidth": undefined,
+              "width": "100%",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "display": "none",
+                "height": 0,
+                "position": "absolute",
+                "visibility": "hidden",
+                "width": 0,
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="decimal"
+    >
+      1
+    </div>
+  </div>
+  <div
+    className="column"
+  >
+    <div
+      className="fraction"
+    >
+      <div
+        className="fractionRow"
+      >
+        <button
+          className="button"
+          onClick={[Function]}
+        >
+           - 
+        </button>
+        <div
+          className="number underline numerator"
+        >
+           
+          1
+        </div>
+        <button
+          className="button"
+          onClick={[Function]}
+        >
+           + 
+        </button>
+      </div>
+      <div
+        className="fractionRow"
+      >
+        <button
+          className="button"
+          onClick={[Function]}
+        >
+          -
+        </button>
+        <div
+          className="number denominator"
+        >
+           
+          1
+        </div>
+        <button
+          className="button"
+          onClick={[Function]}
+        >
+          +
+        </button>
+      </div>
+    </div>
+    <div
+      className="chartContainer"
+      style={
+        Object {
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        className="chart"
+      >
+        <div
+          className="recharts-responsive-container"
+          style={
+            Object {
+              "height": "100%",
+              "maxHeight": undefined,
+              "minHeight": undefined,
+              "minWidth": undefined,
+              "width": "100%",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "display": "none",
+                "height": 0,
+                "position": "absolute",
+                "visibility": "hidden",
+                "width": 0,
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="decimal"
+    >
+      1
+    </div>
+  </div>
+</div>
+`;

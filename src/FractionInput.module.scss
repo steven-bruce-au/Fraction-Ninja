@@ -1,0 +1,36 @@
+
+.fraction { 
+  flex-direction: column;
+  flex-wrap: nowrap;
+  height: 150px;
+}
+
+.number {  
+  font-size: 60px;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.numerator {
+  align-self: flex-end;
+}
+
+.denominator {
+  align-self: flex-start;
+}
+
+.underline {  
+  border-bottom-style: solid;
+}
+
+.fractionRow {  
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  height: 20vh;
+}
+
+@import './button'
+
+
+
