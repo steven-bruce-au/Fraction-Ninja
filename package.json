@@ -10,7 +10,7 @@
     "@types/react-dom": "16.9.0",
     "@types/recharts": "^1.1.16",
     "fast-memoize": "^2.5.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "normalize.css": "^8.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
